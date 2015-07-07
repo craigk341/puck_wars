@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	maps			"map"
+	"IsPlayable"	"1"
+	"map"
+	{
+					"MaxPlayers"                    "6"
+	
+}
